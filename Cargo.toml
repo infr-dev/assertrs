@@ -1,0 +1,9 @@
+[package]
+name = "assertrs"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+description = "Library for simple but powerful matcher-based assertions."
+documentation = "https://docs.rs/assertrs"
+homepage = "https://github.com/infr-dev/assertrs"
+repository = "https://github.com/infr-dev/assertrs"
